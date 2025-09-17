@@ -2,6 +2,17 @@
 
 Collecting security info and tools to help deal with npm vulns.
 
+## Disclaimer
+
+**USE AT YOUR OWN RISK**: This repository provides security scanning tools and vulnerability information for educational and defensive purposes only. Users are responsible for:
+
+- Reviewing and understanding the code before execution
+- Verifying the accuracy of vulnerability information
+- Ensuring compliance with their organization's security policies
+- Taking appropriate action based on the results
+
+The maintainers assume no liability for any damages or security issues arising from the use of these tools. Always verify findings independently and consult official security advisories.
+
 Use dependabot: 
 https://docs.github.com/en/code-security/getting-started/dependabot-quickstart-guide#enabling-dependabot-for-your-repository
 
